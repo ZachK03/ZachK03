@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer, Pilot, and Game Enthusiast from Orlando, FL</h3>
 <p align="center">
   Welcome to the profile, most of the stuff hosted here are just coursework from college, the rest are personal projects. <br/>
-  If you'd like to check out my passion projects for the game Arma 3 with hundreds of daily users, check out my other account [Expung3d](https://github.com/expung3d).
+  If you'd like to check out my passion projects for the game Arma 3 with hundreds of daily users, check out my other account <a href="https://github.com/expung3d" target="_blank">Expung3d</a>.
 </p>
 
 <br/><h2 align="center">Languages and Tools:</h2>
